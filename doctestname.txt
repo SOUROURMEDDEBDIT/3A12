@@ -1,2 +1,6 @@
 test conf
+<<<<<<< HEAD
 test user 2
+=======
+test conf2
+>>>>>>> d807d290227edf658802f678fa33bc031314251b
